@@ -1,8 +1,3 @@
-//1. cd /Users/macbookpro/Documents
-//2. ls main.cpp
-//3. g++ main.cpp -o main_executable
-//4. ./main_executable
-
 #include <iostream>
 #include <string>
 
